@@ -1,0 +1,2 @@
+# Bit-Manipulation-Based-Data-Transformation-Approach-for-Privacy-Preservation-in-Data-Mining
+Official Python code from the IEEE ICAECT 2025 paper “Bit Manipulation Based Data Transformation for Privacy Preservation in Data Mining”, co-authored by me. Implements a binary bit manipulation method for privacy-preserving data mining. Achieved 98% accuracy using K-Means on the UCI Heart Disease dataset.
